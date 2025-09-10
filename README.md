@@ -23,5 +23,5 @@ It focuses on **productivity**, **aesthetics**, and **powerful autocomplete**.
 Clone the repository into your Neovim config folder:
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git ~/.config/nvim
+git clone https://github.com/nangazaki/nvim-setup.git ~/.config/nvim
 
